@@ -1,0 +1,45 @@
+#contenedor{
+
+	border: 1px white;
+	margin: 120px;
+	margin-top: 60px;
+	border-radius: 20px;
+	background: rgb(229, 232, 232);
+	box-shadow: 0 10px 6px rgba(0, 0, 0, 0.1); /* Crear una sombra elevada */ 
+	height: auto;
+
+}
+
+h1{
+
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 1.9rem;
+	color: rgb(27, 79, 114);
+	text-align: center;
+
+}
+
+h2{
+
+	font-family: Tahoma;
+	font-size: 18px;
+	color: rgb(27, 38, 49);
+
+}
+
+p{
+    margin: 30px;
+	font-family: Verdana;
+	line-height: 25px;
+	color: rgb(77, 86, 86);
+
+}
+
+body{
+
+	background: black; 
+	text-align: justify;
+
+}

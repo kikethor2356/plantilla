@@ -1,0 +1,233 @@
+*{
+    font-family:'poppins';
+}
+
+body{
+    margin: 0px;
+    width: 100%;
+}
+
+.container {
+    max-width: auto;
+}
+ 
+
+.img-Google{
+    width: 47%;
+    height: auto;
+}
+
+
+div[ class|="caja"]{
+    display: inline-block;
+    position: absolute;
+    width: 80%;
+    height: 20%;
+}
+
+div.caja-1{
+    width: 48%;
+    top: 65%;
+    right: 1.5%;
+    font-size: 90%;
+}
+
+div.caja-3{
+    width: 23%;
+    top: 75%;
+    right: 26.5%;
+    font-size: 90%;
+}
+
+div.caja-2{
+    width: 23%;
+    top: 75%;
+    right: 2%;
+    font-size: 90%;
+}
+
+div.caja-4{
+    width: 23%;
+    top: 105%;
+    left: 30px;
+}
+
+
+/**/
+
+img{
+    position: absolute;
+    width: 630px;
+    height: 300px;
+    top: 60px;
+    right: 35px;
+}
+
+/**/
+.container2{
+    position: absolute;
+    top: 115%;
+    height: 100%;
+    width: 100%;
+}
+
+.linea1{
+    position: absolute;
+    height: 0.1%;
+    width: 100%;
+    background-color: grey;
+}
+
+.imag{
+    position: absolute;
+    width: 97%;
+    height: 97%;
+    left: 1%;
+}
+
+.parraImg{
+    position: absolute;
+    top: 105%;
+    text-decoration: none;
+    color: black;
+    left: 1%;
+}
+
+.boxOrange{
+    position: absolute;
+    background-color: orange;
+    width: 100%;
+    height: 14%;
+    top: 115%;
+}
+
+.parraImgDentro{
+    position: absolute;
+    top: -20%;
+}
+
+
+.linea2{
+    position: absolute;
+    top: 132%;
+    height: 0.1%;
+    width: 100%;
+    background-color: grey;
+}
+
+/**/
+div.caja-5{
+    text-align: justify;
+    width: 25%;
+    top: 245%;
+    left: 3%;
+}
+
+.imag1{
+    position: absolute;
+    width: 31%;
+	height: 54%; 
+    top: 255%;
+    left: 2%;
+    border-radius: 5%;
+    
+}
+
+.parrafo1{
+    position: absolute;
+    top: 310%;
+    left: 2.5%;
+}
+
+.imag2{
+    position: absolute;
+    width: 31%;
+	height: 54%;
+    top: 255%;
+    left: 35%;
+    border-radius: 5%;
+}
+
+.parrafo2{
+    position: absolute;
+    top: 310%;
+    left: 35%;
+}
+
+.imag3{
+    position: absolute;
+    width: 31%;
+	height: 54%;
+    top: 255%;
+    left: 68%;
+    border-radius: 5%;
+}
+
+.parrafo3{
+    position: absolute;
+    top: 310%;
+    left: 68%;
+}
+
+
+/**/
+.linea3{
+    position: absolute;
+    top: 322%;
+    height: 0.1px;
+    width: 100%;
+    background-color: grey;
+}
+
+.imag5{
+    position: absolute;
+    top: 329%;
+    left: 10%;
+    width: 15%;
+    height: 10%;
+}
+
+.More{
+    position: absolute;
+    top: 323%;
+    right: 26.5%;
+    list-style: none;
+}
+
+.More2{
+    position: absolute;
+    top: 345%;
+    right: 24.5%;
+    list-style: none;
+}
+
+.More3{
+    position: absolute;
+    top: 323%;
+    right: 10%;
+    list-style: none;
+}
+/**/
+
+.parrafo4{
+    position: absolute;
+    top: 2200px;
+    right: 313px;
+    height: 200px;
+    width: 120px;
+    font-size: 13px;
+}
+
+.parrafo5{
+    position: absolute;
+    top: 2200px;
+    right: 100px;
+    height: 200px;
+    width: 120px;
+    font-size: 13px;
+}
+
+.imag4{
+    position: absolute;
+    top: 820px;
+}

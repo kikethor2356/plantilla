@@ -1,0 +1,345 @@
+.Company-ContainerPrincipal{
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+   
+}
+
+.Company-ContainerSub{
+    background-color: transparent;
+}
+
+.subtitulo-1{
+ position: absolute;
+ top: 70px;
+ left: 60px;
+ margin: 0;
+ padding: 0;
+font-size: 40px;
+}
+
+.Imagen-Apple{
+    position: absolute;
+    width: 700px;
+    height: 450px;
+    top: 80px;
+    right: 70px;
+}
+
+.Introduction-Mission{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    top: 525px;
+    right: 420px;
+    font-size: 14px;
+}
+
+.Imagen-Subtitulo-1{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    top: 525px;
+    right: 50px;
+    font-size: 14px;
+}
+
+.Mission{
+    position: absolute;
+    width: auto;
+    top: 670px;
+    right: 200px;
+    
+}
+
+.Img2{
+    position: absolute;
+    top: 0px;
+    right: 185px;
+    top: 7px;
+}
+
+
+.BarraDivisora{
+    background-color: black;
+    height: 1px;
+    width: 100%;
+    position: absolute;
+    right: 0px;
+    top: 740px;
+}
+
+.Nuestra-Gente{
+    width: 100%;
+}
+
+.Subtitulo-Gente{
+
+    position: absolute;
+    top: 770px;
+    left: 60px;
+    margin: 0;
+    padding: 0;
+   font-size: 40px;
+   height: 300px;
+}
+
+.parrafo-Nue-Gente{
+    position: absolute;
+    top: 770px;
+    width: 350px;
+    right: 420px;
+    font-size: 14px;
+}
+
+.Imagen-Empleados{
+width: 330px;
+position: absolute;
+top: 770px;
+right: 70px;
+height: 230px;
+}
+
+.barraInferior2{
+    background-color: orange;
+    height: 90px;
+    width: 1550px;
+    position: absolute;
+    top: 1100px;
+    right:0;
+}
+
+.Siguente{
+position: absolute;
+top: 1100px;
+left: 100px;
+
+}
+
+.img3{
+    position: absolute;
+    top: 1105px;
+    left: 83px;
+}
+
+.barra-Divisora2{
+    height: 1px;
+    position: absolute;
+    top: 1210px;
+    right: 0px;
+    width: 100%;
+    background-color: black;
+}
+
+.subtitulo4{
+    position: absolute;
+    top: 1250px;
+    left: 60px;
+    font-size: 40px;
+    height: 300px;
+}
+
+.img5{
+    position: absolute;
+    top: 1350px;
+    left: 60px;
+    width: 20%;
+    height: 43%;
+    border-radius: 10px;
+}
+
+.img6{
+    position: absolute;
+    top: 1350px;
+    left: 28%;
+    width: 20%;
+    height: 43%;
+    border-radius: 10px;
+}
+
+.img7{
+    position: absolute;
+    top: 1350px;
+    left: 52%;
+    width: 20%;
+    height: 43%;
+    border-radius: 10px;
+  
+}
+
+
+.img8{
+    position: absolute;
+    top: 1350px;
+    right: 60px;
+    width: 20%;
+    height: 43%;
+    border-radius: 10px;
+}
+
+
+
+.barraImgs{
+    position:static;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-1{
+    position: absolute;
+    top: 1650px;
+    left: 60px;
+}
+
+.h3-2{
+    position: absolute;
+    top: 1650px;
+    left: 28%;
+}
+
+.h3-3{
+    position: absolute;
+    top: 1650px;
+    left: 52%;
+}
+
+
+.h3-4{
+    position: absolute;
+    top: 1650px;
+    left: 76%;
+}
+
+.barra-Divisora3{
+    height: 1px;
+    position: absolute;
+    top: 1750px;
+    right: 0px;
+    width: 100%;
+    background-color: black;
+}
+
+.a-1{
+    opacity: 100%;
+    transition: all 0.5s ease;
+}
+
+.a-1:hover{
+    opacity: 50%;
+    transition: all 0.7s ease;
+    
+}
+
+.Subtitulo5{
+    position: absolute;
+    top: 1800px;
+    left: 60px;
+    font-size: 20px;
+}
+
+.Usuarios{
+    position: absolute;
+    top: 1800px;
+    right: 550px;
+    font-size: 40px;
+
+}
+
+.h3-5{
+    font-size: 14px;
+    position: absolute;
+    top: 39px;
+    left: 0px;
+}
+
+.Empleados{
+    position: absolute;
+    top: 1800px;
+    right: 200px;
+    font-size: 40px;
+}
+
+.h3-6{
+    font-size: 14px;
+    position: absolute;
+    top: 39px;
+    left: 0px;
+}
+
+.barra{
+    height: 2px;
+    position: absolute;
+    top: 1900px;
+    right: 0px;
+    width: 47.5%;
+    background-color: rgb(233, 230, 230);
+}
+
+.Ventas{
+    position: absolute;
+    top: 1925px;
+    right: 430px;
+    font-size: 40px;
+}
+
+.h3-7{
+    font-size: 14px;
+    position: absolute;
+    top: 39px;
+    left: 0px;
+}
+
+.Alcance{
+    position: absolute;
+    top: 1925px;
+    right: 160px;
+    font-size: 40px;
+}
+
+.h3-8{
+    font-size: 14px;
+    position: absolute;
+    top: 39px;
+    left: 0px;
+}
+
+.barraSeparadora{
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 1px;
+    right: 0;
+    top: 2050px;
+}
+
+.Logo-2{
+    position: absolute;
+    top: 320%;
+    left: 10%;
+}
+
+.More{
+    position: absolute;
+    top: 320%;
+    left: 56.5%;
+    list-style: none;
+}
+
+.More2{
+    position: absolute;
+    top: 342%;
+    left: 56.5%;
+    list-style: none;
+ 
+}
+
+.More3{
+
+    position: absolute;
+    top: 320%;
+    left: 70%;
+    list-style: none;
+
+}

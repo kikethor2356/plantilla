@@ -1,0 +1,304 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+
+*{
+    font-family: 'poppins';
+}
+
+
+.imagen-jobs{
+
+    position: absolute;
+    width: 12%;
+    height: 24%;
+    top: 251%;
+    left: 48%;
+
+}
+
+.imagen-wozniak{
+
+    width: 12%;
+    height: 24%;
+    position: absolute;
+    top: 278%;
+    left: 48%;
+
+}
+
+.imagen-wayne{
+
+    width: 12%;
+    height: 24%;
+    position: absolute;
+    top: 251%;
+    left: 75%;
+
+}
+
+
+.imagen-mark{
+
+    width: 12%;
+    height: 24%;
+    position: absolute;
+    top: 278%;
+    left: 75%;
+
+}
+
+
+
+
+
+
+
+.container{
+    width: auto;
+}
+
+.img-1{
+    position: absolute;
+    top: 8%;
+    width: 100%;
+    height: 86%;
+}
+
+.caja-2{
+    position: absolute;
+    top: 85%;
+    width: 100%;
+}
+
+.caja-2-1{
+    position: absolute;
+    top: 88.5%;
+    width: 10%;
+    left: 2%;
+}
+
+.caja-2-2{
+    position: absolute;
+    top: 88.5%;
+    font-size: 130%;
+    width: 10%;
+    left: 54.2%;
+}
+
+.caja-3{
+    position: absolute;
+    top: 97%;
+    width: 100%;
+
+}
+
+.caja-3-1{
+    position: absolute;
+    top: 101.5%;
+    width: 30%;
+    left: 2%;
+}
+
+.caja-4{
+    position: absolute;
+    top: 110%;
+    width: 100%;
+}
+
+.caja-4-1{
+    position: absolute;
+    top: 112%;
+    width: 45%;
+    left: 54.2%;
+}
+
+.caja-5{
+    position: absolute;
+    top: 135%;
+    width: 100%;
+}
+
+.caja-5-1{
+    position: absolute;
+    top: 137%;
+    width: 20%;
+    left: 53%;
+}
+
+.caja-5-2{
+
+    position: absolute;
+    top: 137%;
+    width: 25%;
+    left: 74%;
+
+}
+
+.caja-6{
+    position: absolute;
+    top: 165%;
+    width: 100%;
+}
+
+.caja-6-1{
+
+    position: absolute;
+    top: 167%;
+    width: 10%;
+    left: 54.2%;
+
+}
+
+.caja-7{
+    position: absolute;
+    top: 178%;
+    width: 100%;
+}
+
+.caja-7-1{
+    position: absolute;
+    top: 179%;
+    width: 45%;
+    left: 53%;
+}
+
+.caja-7-2{
+    position: absolute;
+    top: 180%;
+    font-size: 150%;
+    width: 20%;
+    left: 2%;
+}
+
+.caja-8{
+    position: absolute;
+    top: 245%;
+    width: 100%;
+}
+
+.caja-8-1{
+    position: absolute;
+    top: 248%;
+    font-size: 130%;
+    width: 50%;
+    left: 2%;
+}
+
+.caja-8-2-1{
+    position: absolute;
+    top: 251%;
+    width: 11%;
+    left: 62%;
+}
+
+.caja-8-3-1{
+
+    position: absolute;
+    top: 278%;
+    width: 11%;
+    left: 62%;
+
+}
+
+.caja-8-4-1{
+    position: absolute;
+    top: 251%;
+    width: 11%;
+    left: 88.5%;
+}
+
+
+.caja-8-5-1{
+    position: absolute;
+    top: 278%;
+    width: 11%;
+    left: 88.5%;
+}
+
+.caja-9{
+    position: absolute;
+    top: 329%;
+    width: 100%;
+}
+
+.caja-9-1{
+    position: absolute;
+    top: 318%;
+    width: 14%;
+    left: 50%;
+}
+
+.caja-10{
+    position: absolute;
+    top: 315%;
+    width: 100%;
+}
+
+.caja-10-1{
+    position: absolute;
+    top: 333%;
+    font-size: 160%;
+    width: 15%;
+    left: 2%;
+}
+
+.caja-10-2{
+
+    position: absolute;
+    top: 335%;
+    width: 22%;
+    font-size: 90%;
+    left: 50%;
+
+}
+
+.caja-10-3{
+    font-size: 88%;
+    position: absolute;
+    top: 335%;
+    width: 22%;
+    left: 77%;
+}
+
+.caja-11{
+
+    position: absolute;
+    top: 440%;
+    width: 100%;
+
+}
+
+.Logo2{
+
+    position: absolute;
+    top: 450%;
+    left: 5%;
+    width: 15%;
+    height: 10%;
+
+}
+
+.More{
+    position: absolute;
+    top: 450%;
+    left: 64%;
+    list-style: none;
+}
+
+.More2{
+
+    position: absolute;
+    top: 472%;
+    left: 64%;
+    list-style: none;
+
+}
+
+.More3{
+    position: absolute;
+    top: 450%;
+    left: 80%;
+    list-style: none;
+}
